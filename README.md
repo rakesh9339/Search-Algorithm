@@ -107,14 +107,14 @@ else:
 ```
 ## Sample Input and Output
 linear search method to match the item in a list
-![](R1.PNG)
-![](R2.PNG)
+![](R1.png)
+![](R2.png)
 find the element in a list using Binary Search(Iterative Method) 
-![](R3.PNG)
-![](R4.PNG)
+![](R3.png)
+![](R4.png)
 find the element in a list using Binary Search (recursive Method) 
-![](R5.PNG)
-![](R6.PNG)
+![](R5.png)
+![](R6.png)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
