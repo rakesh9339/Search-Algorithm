@@ -107,14 +107,16 @@ else:
 ```
 ## Sample Input and Output
 linear search method to match the item in a list
-![](R1.png)
-![](R2.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/121115650/214926741-9faf1386-5797-4e4a-9215-578b9ec21e4a.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/121115650/214926880-6031cdd2-4aee-4059-bfad-fb01d575dd96.png)
+
 find the element in a list using Binary Search(Iterative Method) 
-![](R3.png)
-![](R4.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/121115650/214927677-a448e5fe-08d4-4e46-9562-7c1fcdba3b4c.png)
+
+
 find the element in a list using Binary Search (recursive Method) 
-![](R5.png)
-![](R6.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/121115650/214927411-b0f44b8d-5c2a-4c62-a3fe-74fa6ff0d00b.png)
+
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
